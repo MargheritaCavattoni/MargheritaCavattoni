@@ -2,4 +2,4 @@
 
 https://www.linkedin.com/in/margherita-cavattoni1993/
 
-https://leetcode.com/Marghi/
+![Leetcode Stats](https://leetcode.com/Marghi/)
